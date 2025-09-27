@@ -5,7 +5,7 @@ from langchain import PromptTemplate
 import streamlit as st
 import os
 
-os.environ['GOOGLE_API_KEY'] = "AIzaSyDODrPGIm5IFUXmYj8cwg80ojg9eruF0Nk"
+os.environ['GOOGLE_API_KEY'] = ""
 
 # Create prompt template for generating tweets
 
